@@ -1,0 +1,97 @@
+body {
+  background-color: crimson;
+}
+
+.hd1 {
+  
+  margin-left: 2px;
+  //padding: 30px;
+}
+  .hd2 {
+  color: black;
+  margin-left: 20px;
+
+
+}
+.header {
+  background-image: linear-gradient(to right,darkcyan,lightcyan,darkcyan);
+}
+.vertical {
+            //border-left: 10px solid darkred;
+            height: 200px;
+            position:absolute;
+            left: 0%;
+            background-color: grey;
+        }
+.vertical1 {
+            //border-left: 10px solid darkred;
+            height: 200px;
+            position:absolute;
+            left: 37.1%;
+            right: 0%;
+            background-color: #AD343E;
+        }
+.b1{
+    //font-family: "Lucida Console", "Courier New", monospace;
+    font-family: 'Akaya Telivigala', cursive;
+    text-decoration: underline white;
+    color: black;
+
+    }
+
+.b2{
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-decoration: underline white;
+    color: black;
+    }
+
+.unl{
+    border-bottom: 5px solid whitesmoke;
+
+    }
+.t1{
+    //background-color: black;
+    text-align: center;
+    //border: 5px solid navajowhite;
+    border-collapse: separate;
+    padding: 20px;
+    //border-block: 10px solid white;
+    margin-left: 0px;
+    font-size: 25px;
+    border-radius: 20px;
+
+    }
+.th1{
+    color: white;
+    font-style: italic;
+    background-color: #008080;
+    //border-radius: 10%;
+    font-weight: bold;
+    border-top-right-radius: 20%;
+  border-bottom-left-radius: 20%;
+  }
+.td1{
+    background-color: #008080;
+    //border-radius: 10px;
+    font-style: italic;
+    font-weight: bold;
+    color: white;
+    border-top-right-radius: 20%;
+    border-bottom-left-radius: 20%;
+  }
+.tr1{
+  font-style: italic;
+  //border-radius: 10px;
+  font-weight: bold; 
+  border-top-right-radius: 20%;
+  border-bottom-left-radius: 20%;
+}
+.es1{
+  background-color: #e0e0ce;
+  color: black;
+}
+.a1:hover{
+  background-color: darkred;
+  border-top-right-radius: 20%;
+  border-bottom-left-radius: 20%;
+}
